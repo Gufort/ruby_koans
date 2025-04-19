@@ -6,10 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8156ee32-808b-4073-ac25-0bf49fa9c8d3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about_constants.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_constants.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about_keyword_arguments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_keyword_arguments.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_methods.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about_regular_expressions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_regular_expressions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about_blocks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_blocks.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about_classes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_classes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about_exceptions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_exceptions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about_iteration.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_iteration.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about_sandwich_code.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_sandwich_code.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about_scoring_project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_scoring_project.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/about_triangle_project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_triangle_project.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triangle.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/triangle.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,6 +250,7 @@
       <workItem from="1745000556533" duration="2941000" />
       <workItem from="1745006015594" duration="14000" />
       <workItem from="1745050232616" duration="5795000" />
+      <workItem from="1745062249799" duration="7829000" />
     </task>
     <servers />
   </component>
